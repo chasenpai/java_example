@@ -28,7 +28,7 @@ public class Switch01 {
 			price = 900;
 			break;
 		default:
-			System.out.println("선택하신 커피가 메뉴에 없습니다.");
+			System.out.println("선택하신 음료가 메뉴에 없습니다.");
 		}
 		if(price != 0) {
 			System.out.println(order + "는 " + price + "원 입니다.");
