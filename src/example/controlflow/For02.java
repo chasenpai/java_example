@@ -2,7 +2,7 @@ package example.controlflow;
 
 import java.util.Scanner;
 
-public class For2 {
+public class For02 {
 
 	public static void main(String[] args) {
 		
