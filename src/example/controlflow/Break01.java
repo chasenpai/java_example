@@ -16,9 +16,9 @@ public class Break01 {
 		int i = sc.nextInt();
 		
 		while(true) {
-			if(i == 1) {
+			if(i == 1) { //입력받은 변수 i의 값이 1일 경우
 				System.out.println("프로그램을 실행합니다.");
-				break;
+				break; //위에 내용을 출력하고 반복문을 벗어난다
 			}else if(i == 2) {
 				System.out.println("프로그램을 종료합니다");
 				break;
