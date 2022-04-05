@@ -1,8 +1,8 @@
-package example.method;
+package example.oop;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class Method01 {
 
 	public static void main(String[] args) {
 		
