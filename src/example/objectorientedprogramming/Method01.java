@@ -1,4 +1,4 @@
-package example.oop;
+package example.objectorientedprogramming;
 
 import java.util.Scanner;
 
