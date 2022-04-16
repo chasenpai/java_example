@@ -1,9 +1,25 @@
-package example.objectorientedprogramming;
+package example.oop;
 
 import java.util.Scanner;
 
-public class Method01 {
-
+public class Calculator {
+	
+	static int add(int a, int b) {
+		return a + b;
+	}
+	
+	static int subtract(int a, int b) {
+		return a - b;
+	}
+	
+	static int multiply(int a, int b) {
+		return a * b;
+	}
+	
+	static int divide(int a, int b) {
+		return a / b;
+	}
+	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -30,22 +46,6 @@ public class Method01 {
 				break;
 			}
 		}	
-	}
-	
-	static int add(int a, int b) {
-		return a + b;
-	}
-	
-	static int subtract(int a, int b) {
-		return a - b;
-	}
-	
-	static int multiply(int a, int b) {
-		return a * b;
-	}
-	
-	static int divide(int a, int b) {
-		return a / b;
 	}
 }
 
