@@ -1,4 +1,4 @@
-package example.controlflow;
+package example.loop;
 
 import java.util.Scanner;
 

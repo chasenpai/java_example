@@ -1,4 +1,4 @@
-package example.controlflow;
+package example.loop;
 
 public class While02 {
 	public static void main(String[] args) {
