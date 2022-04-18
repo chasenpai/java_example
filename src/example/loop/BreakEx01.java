@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Break01 {
+public class BreakEx01 {
 
 	public static void main(String[] args) {
 

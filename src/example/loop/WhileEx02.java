@@ -1,6 +1,6 @@
 package example.loop;
 
-public class While02 {
+public class WhileEx02 {
 	public static void main(String[] args) {
 	
 		//while문으로 1 ~ 100 중 홀수만 출력하기

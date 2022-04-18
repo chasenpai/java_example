@@ -2,7 +2,7 @@ package example.loop;
 
 import java.util.Scanner;
 
-public class For01 {
+public class ForEx01 {
 
 	public static void main(String[] args) {
 

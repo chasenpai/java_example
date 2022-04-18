@@ -2,7 +2,7 @@ package example.conditional;
 
 import java.util.Scanner;
 
-public class If02 {
+public class IfEx02 {
 
 	public static void main(String[] args) {
 

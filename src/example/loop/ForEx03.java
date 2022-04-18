@@ -1,6 +1,6 @@
 package example.loop;
 
-public class For03 {
+public class ForEx03 {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package example.conditional;
 
 import java.util.Random;
 
-public class If03 {
+public class IfEx03 {
 
 	public static void main(String[] args) {
 		

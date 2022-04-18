@@ -2,7 +2,7 @@ package example.loop;
 
 import java.util.Scanner;
 
-public class While01 {
+public class WhileEx01 {
 
 	public static void main(String[] args) {
 		

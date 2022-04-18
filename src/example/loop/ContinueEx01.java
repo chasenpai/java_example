@@ -1,6 +1,6 @@
 package example.loop;
 
-public class Continue01 {
+public class ContinueEx01 {
 
 	public static void main(String[] args) {
 		

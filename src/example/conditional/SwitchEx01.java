@@ -2,7 +2,7 @@ package example.conditional;
 
 import java.util.Scanner;
 
-public class Switch01 {
+public class SwitchEx01 {
 
 	public static void main(String[] args) {
 
