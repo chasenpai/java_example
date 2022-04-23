@@ -1,1 +1,1 @@
-# java-example
+# java_example
