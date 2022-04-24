@@ -2,7 +2,7 @@ package example.oop;
 
 import java.util.Scanner;
 
-public class MethodEx02 {
+public class Calculator01 {
 	
 	static int add(int a, int b) {
 		return a + b;
