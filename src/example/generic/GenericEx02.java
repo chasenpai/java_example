@@ -1,32 +1,34 @@
 package example.generic;
 
-class Generic<T>{
-	T t;
+class Person02<T1, T2>{
 	
-	public T getT() {
-		return t;
+	private T1 age;
+	private T2 gender;
+	
+	public T1 getAge() {
+		return age;
+	}
+	public void setAge(T1 age) {
+		this.age = age;
+	}
+	public T2 getGender() {
+		return gender;
+	}
+	public void setGender(T2 gender) {
+		this.gender = gender;
 	}
 
-	public void setT(T t) {
-		this.t = t;
-	}
-	
 }
 
-public class GenericEx02<T> {
-	
+public class GenericEx02 {
+
 	public static void main(String[] args) {
 		
-		Generic<Integer> g1 = new Generic<Integer>(); 
-		Generic<String> g2 = new Generic<String>(); 
+		Person02<Integer, String> p = new Person02<>();
 		
-		g1.setT(25);
-		g2.setT("이십오");
-		
-		System.out.println(g1.getT());
-		System.out.println(g2.getT());
-
-		
+		p.setAge(25);
+		p.setGender("male");
+		System.out.println(p.getAge());
+		System.out.println(p.getGender());
 	}
-
 }
