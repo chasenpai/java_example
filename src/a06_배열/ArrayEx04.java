@@ -3,7 +3,7 @@ package a06_배열;
 import java.util.Arrays;
 import java.util.Random;
 
-	public class Array04 {
+	public class ArrayEx04 {
 	
 	public static void main(String[] args) {
 		

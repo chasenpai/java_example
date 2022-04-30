@@ -2,7 +2,7 @@ package a06_배열;
 
 import java.util.Scanner;
 
-public class Array02 {
+public class ArrayEx02 {
 
 	public static void main(String[] args) {
 		

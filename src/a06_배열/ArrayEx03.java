@@ -3,7 +3,7 @@ package a06_배열;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Array03 {
+public class ArrayEx03 {
 	public static void main(String[] args) {
 			//주사위 굴리기
 		

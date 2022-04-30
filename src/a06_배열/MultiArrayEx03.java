@@ -2,7 +2,7 @@ package a06_배열;
 
 import java.util.Arrays;
 
-public class MultiArray03 {
+public class MultiArrayEx03 {
 
 	public static void main(String[] args) {
 
